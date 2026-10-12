@@ -1,0 +1,6 @@
+{
+  "name": "Silver Travel AI",
+  "description": "Book train, bus, and movie tickets through voice conversations in regional Indian languages with natural speech synthesis.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
